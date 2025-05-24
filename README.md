@@ -2,7 +2,7 @@
 # 🔍 Adulteration Detection in Spices  
 **Detecting Papaya Seed Adulteration in Black Pepper Using YOLOv8s**
 
-![Pepper vs Papaya Example](https://via.placeholder.com/800x200?text=Adulteration+Detection+in+Spices)
+<!-- ![Pepper vs Papaya Example](https://via.placeholder.com/800x200?text=Adulteration+Detection+in+Spices)  -->
 
 ## 📌 Overview
 
@@ -70,6 +70,9 @@ We used **YOLOv8s**, a lightweight real-time object detection model by Ultralyti
 | Mean Seed Detection Accuracy | **88.99%**  |
 | Mean Relative Adulteration Error (MRAE) | **12.27%** |
 | Normalized RMSE              | **0.0813**  |
+
+### Model sample output:
+![40_40_04](assets/40_40_04.jpg)
 
 ### Visual Outputs:
 - Side-by-side comparisons of **predicted vs actual seed counts**
