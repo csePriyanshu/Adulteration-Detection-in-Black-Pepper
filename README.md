@@ -10,6 +10,7 @@ This project addresses the critical issue of **food adulteration in spices**, fo
 
 ---
 
+<!--
 ## 📂 Project Structure
 
 - `data/`: Collected and organized image dataset (pure, adulterated samples)
@@ -20,6 +21,8 @@ This project addresses the critical issue of **food adulteration in spices**, fo
 - `README.md`: Project documentation
 
 ---
+
+-->
 
 ## 🧪 Objective
 
